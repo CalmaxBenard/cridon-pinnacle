@@ -28,6 +28,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     cursor: pointer;
+    visibility: hidden;
 }
 
 .about h3 {
