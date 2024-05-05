@@ -44,6 +44,7 @@ const Courses = () => {
                 <li>Agriculture</li>
                 <li>Business/Economics</li>
                 <li>Geography</li>
+                <li>Music</li>
               </ul>
             </span>
           </div>
