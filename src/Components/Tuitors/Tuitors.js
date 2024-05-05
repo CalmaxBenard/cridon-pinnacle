@@ -52,7 +52,7 @@ const Tuitors = () => {
                         <div className='user-info'>
                             <img src={tuitor_2} alt='' />
                             <div>
-                                <h3>Mr Carlmax Benard</h3>
+                                <h3>Eng. Carlmax Benard</h3>
                                 <span>Python Developer/Mechanical Engineer</span>
                             </div>
                         </div>
