@@ -2,8 +2,8 @@ import React, { useRef } from 'react'
 import './Tuitors.css'
 import next_icon from '../../assets/next-icon.png'
 import back_icon from '../../assets/back-icon.png'
-import tuitor_1 from '../../assets/user-1.png'
-import tuitor_2 from '../../assets/user-2.png'
+import tuitor_1 from '../../assets/jabuya.JPG'
+import tuitor_2 from '../../assets/calmax.JPG'
 import tuitor_3 from '../../assets/user-3.png'
 import tuitor_4 from '../../assets/user-4.png'
 
@@ -35,7 +35,7 @@ const Tuitors = () => {
                         <div className='user-info'>
                             <img src={tuitor_1} alt='' />
                             <div>
-                                <h3>Mrs. Moses Jabuya</h3>
+                                <h3>Mr Moses Jabuya</h3>
                                 <span>Biology Teacher</span>
                             </div>
                         </div>
@@ -52,7 +52,7 @@ const Tuitors = () => {
                         <div className='user-info'>
                             <img src={tuitor_2} alt='' />
                             <div>
-                                <h3>Mr. Carlmax Benard</h3>
+                                <h3>Mr Carlmax Benard</h3>
                                 <span>Python Developer/Mechanical Engineer</span>
                             </div>
                         </div>
