@@ -98,6 +98,7 @@ const Tuitors = () => {
                 </li>
             </ul>
         </div>
+        <button className='btn dark-btn'>See all here</button>
     </div>
   )
 }

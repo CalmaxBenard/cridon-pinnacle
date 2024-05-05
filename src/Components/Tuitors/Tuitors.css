@@ -64,6 +64,10 @@
     color: #212EA0;
 }
 
+.tuitors button {
+    margin-left: 45%;
+}
+
 /* ---------------media query----------- */
 @media (max-width: 800px) {
     .tuitors {
