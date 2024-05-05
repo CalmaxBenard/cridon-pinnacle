@@ -42,8 +42,8 @@ const Courses = () => {
               <ul>
                 <li>Business/Economics</li>
                 <li>Agriculture</li>
-                <li>History</li>
                 <li>Geography</li>
+                <li>History</li>
                 <li>Music</li>
               </ul>
             </span>
