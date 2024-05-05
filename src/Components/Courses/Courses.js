@@ -27,11 +27,11 @@ const Courses = () => {
             <img src={course_2} alt='' />
             <span>
               <ul>
-                <li>English</li>
-                <li>French</li>
-                <li>Germany</li>
-                <li>Swahili</li>
                 <li>Kenyan Sign Language</li>
+                <li>Germany</li>
+                <li>English</li>
+                <li>Swahili</li>
+                <li>French</li>
               </ul>
             </span>
           </div>
@@ -40,9 +40,9 @@ const Courses = () => {
             <img src={course_3} alt='' />
             <span>
               <ul>
-                <li>History</li>
-                <li>Agriculture</li>
                 <li>Business/Economics</li>
+                <li>Agriculture</li>
+                <li>History</li>
                 <li>Geography</li>
                 <li>Music</li>
               </ul>
@@ -53,8 +53,8 @@ const Courses = () => {
             <img src={course_4} alt='' />
             <span>
               <ul>
-                <li>Python</li>
                 <li>JavaScript</li>
+                <li>Python</li>
                 <li>HTML</li>
                 <li>CSS</li>
               </ul>
