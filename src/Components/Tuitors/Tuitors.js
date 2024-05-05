@@ -4,7 +4,7 @@ import next_icon from '../../assets/next-icon.png'
 import back_icon from '../../assets/back-icon.png'
 import tuitor_1 from '../../assets/jabuya.JPG'
 import tuitor_2 from '../../assets/calmax.JPG'
-import tuitor_3 from '../../assets/user-3.png'
+import tuitor_3 from '../../assets/chem.jpg'
 import tuitor_4 from '../../assets/user-4.png'
 
 const Tuitors = () => {
