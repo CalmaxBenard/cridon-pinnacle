@@ -41,7 +41,7 @@ const Contact = () => {
                 information below. Your feedback, questions, and suggestions are important
                 to us as we strive to provide exceptional service to our Cridon Community.
                 <ul>
-                    <li><img src={mail_icon} alt='' />Cridonpinnacle@tution.edu</li>
+                    <li><img src={mail_icon} alt='' />Cridonpinnacle@gmail.com</li>
                     <li><img src={phone_icon} alt='' />+254797659232</li>
                     <li><img src={location_icon} alt='' />Garden City, Off Thika Road<br/>MJ 203, Kenya</li>
                 </ul>
