@@ -20,7 +20,7 @@ const App = () => {
         <Hero />
         <div className='container'>
           <About setPlayState={setPlayState}/>
-          <Title subTitle="Our Programs" title="What We Offer"/>          
+          <Title subTitle="Our Programs" title="Kenyan 8-4-4 Syllabus | IGCSE | IB"/>          
           <Programs />
           <Title subTitle="Classes" title="Check Our Subjects"/>
           <Courses />          
