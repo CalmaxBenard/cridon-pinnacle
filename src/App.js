@@ -22,7 +22,7 @@ const App = () => {
           <About setPlayState={setPlayState}/>
           <Title subTitle="Our Programs" title="What We Offer"/>          
           <Programs />
-          <Title subTitle="Classes" title="Check Our Courses"/>
+          <Title subTitle="Classes" title="Check Our Subjects"/>
           <Courses />          
           <Title subTitle="Tuitors" title="Our Tuitor's Bios"/>
           <Tuitors />
