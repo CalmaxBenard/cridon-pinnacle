@@ -5,7 +5,7 @@ import back_icon from '../../assets/back-icon.png'
 import tuitor_1 from '../../assets/jabuya.JPG'
 import tuitor_2 from '../../assets/calmax.JPG'
 import tuitor_3 from '../../assets/chem.jpg'
-import tuitor_4 from '../../assets/user-4.png'
+import tuitor_4 from '../../assets/physics.jpg'
 
 const Tuitors = () => {
     const slider = useRef();
@@ -69,7 +69,7 @@ const Tuitors = () => {
                         <div className='user-info'>
                             <img src={tuitor_3} alt='' />
                             <div>
-                                <h3>Ms. Linda Otieno</h3>
+                                <h3>Ms. Celine Mutio</h3>
                                 <span>Chemistry Teacher</span>
                             </div>
                         </div>
@@ -85,7 +85,7 @@ const Tuitors = () => {
                         <div className='user-info'>
                             <img src={tuitor_4} alt='' />
                             <div>
-                                <h3>Mr. Jackson Mbithi</h3>
+                                <h3>Mr. Wickliffe Omollo</h3>
                                 <span>Physics Teacher</span>
                             </div>
                         </div>
