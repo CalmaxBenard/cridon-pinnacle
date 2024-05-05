@@ -24,7 +24,7 @@ const App = () => {
           <Programs />
           <Title subTitle="Classes" title="Check Our Subjects"/>
           <Courses />          
-          <Title subTitle="Tuitors" title="Our Tuitor's Bios"/>
+          <Title subTitle="Tuitors" title="Our Tutor's Bios"/>
           <Tuitors />
           <Title subTitle="Contact Us" title="Get Started"/>
           <Contact />
